@@ -1,0 +1,671 @@
+title,award,public_review_value,public_review_text,critic_review_value,critic_review_text
+The Wolf of Wall Street,Oscar,4,VeryPositive,4,VeryPositive
+The Wolf of Wall Street,Oscar,2,Neutral,3,Positive
+The Wolf of Wall Street,Oscar,2,Neutral,3,Positive
+The Wolf of Wall Street,Oscar,3,Positive,3,Positive
+The Wolf of Wall Street,Oscar,1,Negative,3,Positive
+The Wolf of Wall Street,Oscar,2,Neutral,3,Positive
+The Wolf of Wall Street,Oscar,2,Neutral,3,Positive
+The Wolf of Wall Street,Oscar,4,VeryPositive,1,Negative
+The Wolf of Wall Street,Oscar,2,Neutral,2,Neutral
+The Wolf of Wall Street,Oscar,0,VeryNegative,4,VeryPositive
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,1,Negative,,
+The Wolf of Wall Street,Oscar,1,Negative,,
+The Wolf of Wall Street,Oscar,1,Negative,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,4,VeryPositive,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+The Wolf of Wall Street,Oscar,4,VeryPositive,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,3,Positive,,
+The Wolf of Wall Street,Oscar,2,Neutral,,
+12 Years a Slave,Oscars,2,Neutral,3,Positive
+12 Years a Slave,Oscars,3,Positive,1,Negative
+12 Years a Slave,Oscars,3,Positive,3,Positive
+12 Years a Slave,Oscars,3,Positive,3,Positive
+12 Years a Slave,Oscars,1,Negative,3,Positive
+12 Years a Slave,Oscars,2,Neutral,4,VeryPositive
+12 Years a Slave,Oscars,1,Negative,1,Negative
+12 Years a Slave,Oscars,2,Neutral,1,Negative
+12 Years a Slave,Oscars,2,Neutral,1,Negative
+12 Years a Slave,Oscars,1,Negative,4,VeryPositive
+12 Years a Slave,Oscars,2,Neutral,,
+12 Years a Slave,Oscars,1,Negative,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,4,VeryPositive,,
+12 Years a Slave,Oscars,2,Neutral,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,2,Neutral,,
+12 Years a Slave,Oscars,1,Negative,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,1,Negative,,
+12 Years a Slave,Oscars,2,Neutral,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,2,Neutral,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,4,VeryPositive,,
+12 Years a Slave,Oscars,3,Positive,,
+12 Years a Slave,Oscars,1,Negative,,
+American Hustle,Oscars,2,Neutral,3,Positive
+American Hustle,Oscars,3,Positive,3,Positive
+American Hustle,Oscars,1,Negative,3,Positive
+American Hustle,Oscars,3,Positive,3,Positive
+American Hustle,Oscars,4,VeryPositive,4,VeryPositive
+American Hustle,Oscars,2,Neutral,3,Positive
+American Hustle,Oscars,4,VeryPositive,2,Neutral
+American Hustle,Oscars,2,Neutral,3,Positive
+American Hustle,Oscars,3,Positive,3,Positive
+American Hustle,Oscars,1,Negative,2,Neutral
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,1,Negative,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,2,Neutral,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,2,Neutral,,
+American Hustle,Oscars,2,Neutral,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,2,Neutral,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,2,Neutral,,
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,4,VeryPositive,,
+American Hustle,Oscars,1,Negative,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,3,Positive,,
+American Hustle,Oscars,2,Neutral,,
+Captain Phillips,Oscars,4,VeryPositive,3,Positive
+Captain Phillips,Oscars,4,VeryPositive,3,Positive
+Captain Phillips,Oscars,3,Positive,1,Negative
+Captain Phillips,Oscars,3,Positive,4,VeryPositive
+Captain Phillips,Oscars,2,Neutral,3,Positive
+Captain Phillips,Oscars,3,Positive,1,Negative
+Captain Phillips,Oscars,4,VeryPositive,2,Neutral
+Captain Phillips,Oscars,2,Neutral,4,VeryPositive
+Captain Phillips,Oscars,4,VeryPositive,1,Negative
+Captain Phillips,Oscars,3,Positive,3,Positive
+Captain Phillips,Oscars,4,VeryPositive,,
+Captain Phillips,Oscars,4,VeryPositive,,
+Captain Phillips,Oscars,0,VeryNegative,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,2,Neutral,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,4,VeryPositive,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,2,Neutral,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,4,VeryPositive,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,2,Neutral,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,4,VeryPositive,,
+Captain Phillips,Oscars,3,Positive,,
+Captain Phillips,Oscars,2,Neutral,,
+Captain Phillips,Oscars,2,Neutral,,
+Gravity,Oscars,3,Positive,2,Neutral
+Gravity,Oscars,2,Neutral,3,Positive
+Gravity,Oscars,2,Neutral,3,Positive
+Gravity,Oscars,4,VeryPositive,3,Positive
+Gravity,Oscars,1,Negative,3,Positive
+Gravity,Oscars,4,VeryPositive,3,Positive
+Gravity,Oscars,3,Positive,3,Positive
+Gravity,Oscars,2,Neutral,3,Positive
+Gravity,Oscars,3,Positive,3,Positive
+Gravity,Oscars,4,VeryPositive,3,Positive
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,1,Negative,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,1,Negative,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,2,Neutral,,
+Gravity,Oscars,4,VeryPositive,,
+Gravity,Oscars,3,Positive,,
+Gravity,Oscars,1,Negative,,
+Gravity,Oscars,2,Neutral,,
+American Sniper,Oscar,3,Positive,3,Positive
+American Sniper,Oscar,3,Positive,1,Negative
+American Sniper,Oscar,3,Positive,3,Positive
+American Sniper,Oscar,3,Positive,3,Positive
+American Sniper,Oscar,2,Neutral,1,Negative
+American Sniper,Oscar,2,Neutral,3,Positive
+American Sniper,Oscar,3,Positive,3,Positive
+American Sniper,Oscar,1,Negative,2,Neutral
+American Sniper,Oscar,2,Neutral,1,Negative
+American Sniper,Oscar,4,VeryPositive,2,Neutral
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,4,VeryPositive,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,2,Neutral,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,2,Neutral,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,3,Positive,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,2,Neutral,,
+American Sniper,Oscar,1,Negative,,
+American Sniper,Oscar,2,Neutral,,
+American Sniper,Oscar,4,VeryPositive,,
+Birdman,Oscar,3,Positive,1,Negative
+Birdman,Oscar,4,VeryPositive,1,Negative
+Birdman,Oscar,4,VeryPositive,3,Positive
+Birdman,Oscar,3,Positive,3,Positive
+Birdman,Oscar,3,Positive,4,VeryPositive
+Birdman,Oscar,3,Positive,3,Positive
+Birdman,Oscar,3,Positive,2,Neutral
+Birdman,Oscar,4,VeryPositive,4,VeryPositive
+Birdman,Oscar,1,Negative,1,Negative
+Birdman,Oscar,4,VeryPositive,1,Negative
+Birdman,Oscar,3,Positive,3,Positive
+Birdman,Oscar,1,Negative,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,1,Negative,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,1,Negative,,
+Birdman,Oscar,0,VeryNegative,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,3,Positive,,
+Birdman,Oscar,1,Negative,,
+Birdman,Oscar,2,Neutral,,
+Birdman,Oscar,2,Neutral,,
+Boyhood,Oscar,2,Neutral,3,Positive
+Boyhood,Oscar,2,Neutral,3,Positive
+Boyhood,Oscar,4,VeryPositive,3,Positive
+Boyhood,Oscar,3,Positive,3,Positive
+Boyhood,Oscar,3,Positive,2,Neutral
+Boyhood,Oscar,2,Neutral,3,Positive
+Boyhood,Oscar,2,Neutral,2,Neutral
+Boyhood,Oscar,1,Negative,3,Positive
+Boyhood,Oscar,4,VeryPositive,3,Positive
+Boyhood,Oscar,4,VeryPositive,3,Positive
+Boyhood,Oscar,1,Negative,4,VeryPositive
+Boyhood,Oscar,2,Neutral,4,VeryPositive
+Boyhood,Oscar,1,Negative,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,2,Neutral,,
+Boyhood,Oscar,4,VeryPositive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,2,Neutral,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,2,Neutral,,
+Boyhood,Oscar,1,Negative,,
+Boyhood,Oscar,1,Negative,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,1,Negative,,
+Boyhood,Oscar,4,VeryPositive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,1,Negative,,
+Boyhood,Oscar,4,VeryPositive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,3,Positive,,
+Boyhood,Oscar,2,Neutral,,
+Boyhood,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,2,Neutral
+THE GRAND BUDAPEST,Oscar,2,Neutral,3,Positive
+THE GRAND BUDAPEST,Oscar,2,Neutral,3,Positive
+THE GRAND BUDAPEST,Oscar,3,Positive,1,Negative
+THE GRAND BUDAPEST,Oscar,2,Neutral,2,Neutral
+THE GRAND BUDAPEST,Oscar,1,Negative,4,VeryPositive
+THE GRAND BUDAPEST,Oscar,3,Positive,1,Negative
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,1,Negative
+THE GRAND BUDAPEST,Oscar,3,Positive,4,VeryPositive
+THE GRAND BUDAPEST,Oscar,3,Positive,3,Positive
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,3,Positive
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,0,VeryNegative,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,2,Neutral,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,2,Neutral,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,4,VeryPositive,,
+THE GRAND BUDAPEST,Oscar,3,Positive,,
+THE GRAND BUDAPEST,Oscar,1,Negative,,
+THE GRAND BUDAPEST,Oscar,2,Neutral,,
+The Imitation Game,Oscar,2,Neutral,3,Positive
+The Imitation Game,Oscar,3,Positive,1,Negative
+The Imitation Game,Oscar,3,Positive,4,VeryPositive
+The Imitation Game,Oscar,4,VeryPositive,1,Negative
+The Imitation Game,Oscar,3,Positive,3,Positive
+The Imitation Game,Oscar,2,Neutral,3,Positive
+The Imitation Game,Oscar,4,VeryPositive,3,Positive
+The Imitation Game,Oscar,2,Neutral,3,Positive
+The Imitation Game,Oscar,2,Neutral,3,Positive
+The Imitation Game,Oscar,3,Positive,4,VeryPositive
+The Imitation Game,Oscar,3,Positive,2,Neutral
+The Imitation Game,Oscar,4,VeryPositive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,4,VeryPositive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,4,VeryPositive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,4,VeryPositive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,2,Neutral,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,4,VeryPositive,,
+The Imitation Game,Oscar,3,Positive,,
+The Imitation Game,Oscar,3,Positive,,
+Spotlight,Oscars,1,Negative,1,Negative
+Spotlight,Oscars,3,Positive,3,Positive
+Spotlight,Oscars,1,Negative,1,Negative
+Spotlight,Oscars,4,VeryPositive,3,Positive
+Spotlight,Oscars,4,VeryPositive,1,Negative
+Spotlight,Oscars,3,Positive,2,Neutral
+Spotlight,Oscars,3,Positive,3,Positive
+Spotlight,Oscars,3,Positive,3,Positive
+Spotlight,Oscars,3,Positive,2,Neutral
+Spotlight,Oscars,2,Neutral,3,Positive
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,4,VeryPositive,,
+Spotlight,Oscars,4,VeryPositive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,1,Negative,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,1,Negative,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,1,Negative,,
+Spotlight,Oscars,4,VeryPositive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,1,Negative,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+Spotlight,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,3,Positive,3,Positive
+THE BIG SHORT,Oscars,2,Neutral,3,Positive
+THE BIG SHORT,Oscars,4,VeryPositive,0,VeryNegative
+THE BIG SHORT,Oscars,2,Neutral,4,VeryPositive
+THE BIG SHORT,Oscars,2,Neutral,1,Negative
+THE BIG SHORT,Oscars,3,Positive,3,Positive
+THE BIG SHORT,Oscars,3,Positive,1,Negative
+THE BIG SHORT,Oscars,3,Positive,1,Negative
+THE BIG SHORT,Oscars,3,Positive,1,Negative
+THE BIG SHORT,Oscars,4,VeryPositive,3,Positive
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,1,Negative,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,1,Negative,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,4,VeryPositive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,4,VeryPositive,,
+THE BIG SHORT,Oscars,1,Negative,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,4,VeryPositive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,1,Negative,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,1,Negative,,
+THE BIG SHORT,Oscars,3,Positive,,
+THE BIG SHORT,Oscars,2,Neutral,,
+THE BIG SHORT,Oscars,1,Negative,,
+BRIDGE OF SPIES,Oscars,3,Positive,1,Negative
+BRIDGE OF SPIES,Oscars,3,Positive,4,VeryPositive
+BRIDGE OF SPIES,Oscars,2,Neutral,3,Positive
+BRIDGE OF SPIES,Oscars,4,VeryPositive,3,Positive
+BRIDGE OF SPIES,Oscars,4,VeryPositive,3,Positive
+BRIDGE OF SPIES,Oscars,3,Positive,4,VeryPositive
+BRIDGE OF SPIES,Oscars,1,Negative,2,Neutral
+BRIDGE OF SPIES,Oscars,3,Positive,3,Positive
+BRIDGE OF SPIES,Oscars,3,Positive,2,Neutral
+BRIDGE OF SPIES,Oscars,4,VeryPositive,1,Negative
+BRIDGE OF SPIES,Oscars,3,Positive,1,Negative
+BRIDGE OF SPIES,Oscars,2,Neutral,0,VeryNegative
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,3,Positive,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,4,VeryPositive,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,1,Negative,,
+BRIDGE OF SPIES,Oscars,3,Positive,,
+BRIDGE OF SPIES,Oscars,4,VeryPositive,,
+BRIDGE OF SPIES,Oscars,1,Negative,,
+BRIDGE OF SPIES,Oscars,4,VeryPositive,,
+BRIDGE OF SPIES,Oscars,3,Positive,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,2,Neutral,,
+BRIDGE OF SPIES,Oscars,3,Positive,,
+BRIDGE OF SPIES,Oscars,3,Positive,,
+Brooklyn,Oscars,3,Positive,3,Positive
+Brooklyn,Oscars,4,VeryPositive,3,Positive
+Brooklyn,Oscars,3,Positive,3,Positive
+Brooklyn,Oscars,1,Negative,1,Negative
+Brooklyn,Oscars,3,Positive,4,VeryPositive
+Brooklyn,Oscars,1,Negative,4,VeryPositive
+Brooklyn,Oscars,2,Neutral,2,Neutral
+Brooklyn,Oscars,3,Positive,4,VeryPositive
+Brooklyn,Oscars,3,Positive,3,Positive
+Brooklyn,Oscars,3,Positive,3,Positive
+Brooklyn,Oscars,1,Negative,2,Neutral
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,4,VeryPositive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,2,Neutral,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,2,Neutral,,
+Brooklyn,Oscars,2,Neutral,,
+Brooklyn,Oscars,4,VeryPositive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,2,Neutral,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,3,Positive,,
+Brooklyn,Oscars,2,Neutral,,
+The Martian,Oscars,2,Neutral,2,Neutral
+The Martian,Oscars,3,Positive,3,Positive
+The Martian,Oscars,2,Neutral,3,Positive
+The Martian,Oscars,3,Positive,3,Positive
+The Martian,Oscars,3,Positive,2,Neutral
+The Martian,Oscars,4,VeryPositive,3,Positive
+The Martian,Oscars,2,Neutral,1,Negative
+The Martian,Oscars,3,Positive,2,Neutral
+The Martian,Oscars,1,Negative,4,VeryPositive
+The Martian,Oscars,4,VeryPositive,4,VeryPositive
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,2,Neutral,,
+The Martian,Oscars,2,Neutral,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,1,Negative,,
+The Martian,Oscars,4,VeryPositive,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,4,VeryPositive,,
+The Martian,Oscars,4,VeryPositive,,
+The Martian,Oscars,4,VeryPositive,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,2,Neutral,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,2,Neutral,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,2,Neutral,,
+The Martian,Oscars,3,Positive,,
+The Martian,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,2,Neutral
+Moonlight ,Oscars,3,Positive,1,Negative
+Moonlight ,Oscars,3,Positive,3,Positive
+Moonlight ,Oscars,2,Neutral,3,Positive
+Moonlight ,Oscars,1,Negative,1,Negative
+Moonlight ,Oscars,2,Neutral,2,Neutral
+Moonlight ,Oscars,3,Positive,2,Neutral
+Moonlight ,Oscars,1,Negative,3,Positive
+Moonlight ,Oscars,2,Neutral,4,VeryPositive
+Moonlight ,Oscars,2,Neutral,2,Neutral
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,4,VeryPositive,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,3,Positive,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,1,Negative,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,3,Positive,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,1,Negative,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,2,Neutral,,
+Moonlight ,Oscars,1,Negative,,
+Moonlight ,Oscars,2,Neutral,,
+La La Land,Oscars,1,Negative,3,Positive
+La La Land,Oscars,3,Positive,4,VeryPositive
+La La Land,Oscars,3,Positive,3,Positive
+La La Land,Oscars,1,Negative,4,VeryPositive
+La La Land,Oscars,3,Positive,1,Negative
+La La Land,Oscars,2,Neutral,2,Neutral
+La La Land,Oscars,1,Negative,4,VeryPositive
+La La Land,Oscars,3,Positive,2,Neutral
+La La Land,Oscars,2,Neutral,4,VeryPositive
+La La Land,Oscars,0,VeryNegative,3,Positive
+La La Land,Oscars,3,Positive,2,Neutral
+La La Land,Oscars,3,Positive,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,1,Negative,,
+La La Land,Oscars,0,VeryNegative,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,3,Positive,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,3,Positive,,
+La La Land,Oscars,1,Negative,,
+La La Land,Oscars,2,Neutral,,
+La La Land,Oscars,1,Negative,,
+La La Land,Oscars,3,Positive,,
+La La Land,Oscars,1,Negative,,
+La La Land,Oscars,3,Positive,,
+La La Land,Oscars,1,Negative,,
+La La Land,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,2,Neutral,1,Negative
+HACKSAW RIDGE,Oscars,2,Neutral,1,Negative
+HACKSAW RIDGE,Oscars,3,Positive,3,Positive
+HACKSAW RIDGE,Oscars,1,Negative,2,Neutral
+HACKSAW RIDGE,Oscars,1,Negative,1,Negative
+HACKSAW RIDGE,Oscars,2,Neutral,3,Positive
+HACKSAW RIDGE,Oscars,1,Negative,1,Negative
+HACKSAW RIDGE,Oscars,2,Neutral,2,Neutral
+HACKSAW RIDGE,Oscars,2,Neutral,2,Neutral
+HACKSAW RIDGE,Oscars,3,Positive,1,Negative
+HACKSAW RIDGE,Oscars,2,Neutral,3,Positive
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,1,Negative,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,1,Negative,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+HACKSAW RIDGE,Oscars,3,Positive,,
+HACKSAW RIDGE,Oscars,4,VeryPositive,,
+HACKSAW RIDGE,Oscars,2,Neutral,,
+Manchester by the Sea,Oscar,3,Positive,2,Neutral
+Manchester by the Sea,Oscar,3,Positive,3,Positive
+Manchester by the Sea,Oscar,2,Neutral,3,Positive
+Manchester by the Sea,Oscar,2,Neutral,2,Neutral
+Manchester by the Sea,Oscar,3,Positive,3,Positive
+Manchester by the Sea,Oscar,2,Neutral,4,VeryPositive
+Manchester by the Sea,Oscar,1,Negative,3,Positive
+Manchester by the Sea,Oscar,2,Neutral,4,VeryPositive
+Manchester by the Sea,Oscar,1,Negative,2,Neutral
+Manchester by the Sea,Oscar,2,Neutral,3,Positive
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,3,Positive,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,4,VeryPositive,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,1,Negative,,
+Manchester by the Sea,Oscar,1,Negative,,
+Manchester by the Sea,Oscar,0,VeryNegative,,
+Manchester by the Sea,Oscar,3,Positive,,
+Manchester by the Sea,Oscar,1,Negative,,
+Manchester by the Sea,Oscar,0,VeryNegative,,
+Manchester by the Sea,Oscar,3,Positive,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,1,Negative,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,0,VeryNegative,,
+Manchester by the Sea,Oscar,2,Neutral,,
+Manchester by the Sea,Oscar,3,Positive,,
+ARRIVAL,Oscars,1,Negative,3,Positive
+ARRIVAL,Oscars,3,Positive,3,Positive
+ARRIVAL,Oscars,1,Negative,4,VeryPositive
+ARRIVAL,Oscars,2,Neutral,3,Positive
+ARRIVAL,Oscars,1,Negative,3,Positive
+ARRIVAL,Oscars,2,Neutral,2,Neutral
+ARRIVAL,Oscars,0,VeryNegative,4,VeryPositive
+ARRIVAL,Oscars,2,Neutral,4,VeryPositive
+ARRIVAL,Oscars,1,Negative,4,VeryPositive
+ARRIVAL,Oscars,1,Negative,1,Negative
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,0,VeryNegative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+ARRIVAL,Oscars,1,Negative,,
+ARRIVAL,Oscars,2,Neutral,,
+Call Me by Your Name,Oscar,2,Neutral,2,Neutral
+Call Me by Your Name,Oscar,2,Neutral,2,Neutral
+Call Me by Your Name,Oscar,2,Neutral,2,Neutral
+Call Me by Your Name,Oscar,2,Neutral,2,Neutral
+Call Me by Your Name,Oscar,1,Negative,2,Neutral
+Call Me by Your Name,Oscar,1,Negative,2,Neutral
+Call Me by Your Name,Oscar,3,Positive,2,Neutral
+Call Me by Your Name,Oscar,1,Negative,2,Neutral
+Call Me by Your Name,Oscar,1,Negative,2,Neutral
+Call Me by Your Name,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,2,Neutral,1,Negative
+Darkest Hour,Oscar,1,Negative,2,Neutral
+Darkest Hour,Oscar,3,Positive,2,Neutral
+Darkest Hour,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,1,Negative,2,Neutral
+Darkest Hour,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,2,Neutral,2,Neutral
+Darkest Hour,Oscar,1,Negative,2,Neutral
+Dunkirk,Oscar,2,Neutral,1,Negative
+Dunkirk,Oscar,2,Neutral,2,Neutral
+Dunkirk,Oscar,2,Neutral,2,Neutral
+Dunkirk,Oscar,1,Negative,2,Neutral
+Dunkirk,Oscar,2,Neutral,2,Neutral
+Dunkirk,Oscar,1,Negative,2,Neutral
+Dunkirk,Oscar,1,Negative,2,Neutral
+Dunkirk,Oscar,2,Neutral,2,Neutral
+Dunkirk,Oscar,1,Negative,2,Neutral
+Dunkirk,Oscar,1,Negative,2,Neutral
+Get Out,Oscar,1,Negative,2,Neutral
+Get Out,Oscar,2,Neutral,2,Neutral
+Get Out,Oscar,2,Neutral,2,Neutral
+Get Out,Oscar,2,Neutral,2,Neutral
+Get Out,Oscar,1,Negative,2,Neutral
+Get Out,Oscar,1,Negative,2,Neutral
+Get Out,Oscar,2,Neutral,2,Neutral
+Get Out,Oscar,2,Neutral,2,Neutral
+Get Out,Oscar,1,Negative,1,Negative
+Get Out,Oscar,2,Neutral,2,Neutral
+Lady Bird,Oscar,2,Neutral,2,Neutral
+Lady Bird,Oscar,3,Positive,2,Neutral
+Lady Bird,Oscar,1,Negative,2,Neutral
+Lady Bird,Oscar,1,Negative,2,Neutral
+Lady Bird,Oscar,3,Positive,2,Neutral
+Lady Bird,Oscar,2,Neutral,2,Neutral
+Lady Bird,Oscar,1,Negative,2,Neutral
+Lady Bird,Oscar,2,Neutral,2,Neutral
+Lady Bird,Oscar,1,Negative,2,Neutral
+Lady Bird,Oscar,2,Neutral,2,Neutral
